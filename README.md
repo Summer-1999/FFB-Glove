@@ -1,6 +1,6 @@
 # FFB-Glove
 
-This is low cost 3D printed force-feedback glove powered by ESP32 intended to provide more immersion for VR application. It has one servo motor and 1 DOF tracking for each finger, allowing players to grab and feel objects inside of a VR environment.
+This is low cost 3D printed force-feedback glove powered by ESP32 intended to provide more immersion for VR application. It has one servo motor and 1 DOF tracking for each finger, allowing players to grab and feel objects inside of a VR environment. It communicates with a pc via USB or Bluetooth serial, and the glove can powered by USB powerbank.
 
 This project is inspired by and derived from [Lucid Gloves](https://github.com/LucidVR/lucidgloves), [Proto Glove](https://github.com/Valsvirtuals/ProtoGlove) and [ZipLine](https://github.com/Valsvirtuals/ZipLine).
 
